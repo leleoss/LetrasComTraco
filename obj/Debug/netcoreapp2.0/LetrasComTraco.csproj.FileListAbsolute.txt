@@ -1,0 +1,10 @@
+C:\Users\user_acronus\LetrasComTraco\bin\Debug\netcoreapp2.0\LetrasComTraco.deps.json
+C:\Users\user_acronus\LetrasComTraco\bin\Debug\netcoreapp2.0\LetrasComTraco.runtimeconfig.json
+C:\Users\user_acronus\LetrasComTraco\bin\Debug\netcoreapp2.0\LetrasComTraco.runtimeconfig.dev.json
+C:\Users\user_acronus\LetrasComTraco\bin\Debug\netcoreapp2.0\LetrasComTraco.dll
+C:\Users\user_acronus\LetrasComTraco\bin\Debug\netcoreapp2.0\LetrasComTraco.pdb
+C:\Users\user_acronus\LetrasComTraco\obj\Debug\netcoreapp2.0\LetrasComTraco.csproj.CoreCompileInputs.cache
+C:\Users\user_acronus\LetrasComTraco\obj\Debug\netcoreapp2.0\LetrasComTraco.AssemblyInfoInputs.cache
+C:\Users\user_acronus\LetrasComTraco\obj\Debug\netcoreapp2.0\LetrasComTraco.AssemblyInfo.cs
+C:\Users\user_acronus\LetrasComTraco\obj\Debug\netcoreapp2.0\LetrasComTraco.dll
+C:\Users\user_acronus\LetrasComTraco\obj\Debug\netcoreapp2.0\LetrasComTraco.pdb
